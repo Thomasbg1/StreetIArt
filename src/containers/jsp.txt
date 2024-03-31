@@ -1,0 +1,16 @@
+ {/* <Callout tooltip onPress={() => console.log("Callout pressed")}>
+              <View>
+                <View style={styles.bubble}> 
+                <Image 
+                    style={styles.image}
+                    source={require('../assets/images/Itineraire.png')}
+                  />
+                  <Text style={styles.name}>{oeuvre.name} 
+                 </Text>
+                 
+                  <Text>{oeuvre.description}</Text>
+                </View>
+                <View style={styles.arrowBorder} />
+                <View style={styles.arrow} />
+              </View>
+            </Callout> */}
